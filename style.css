@@ -1,0 +1,25 @@
+body {
+    background-color: #03494993;
+
+}
+h1 {
+    color: #810904;
+    font-family: arial;
+
+}
+p {
+    color: #19c90c;
+    font-family: times new roman;
+    padding: 15px;
+}
+li {
+    color: #c9c90c;
+    font-family: times new roman;
+    padding: 20px;
+}
+div {
+    background-color: #03494993;
+    color: #c9c90c;
+    font-family: times new roman;
+    padding: 20px;
+}
